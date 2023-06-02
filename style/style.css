@@ -194,7 +194,9 @@ body{
         max-width:100%
     }
     #user-search-input{
-        margin-left:4rem
+        width:13rem;
+        /* margin-left:4rem; */
+        margin-right:0;
     }
     .navigation-container{
         max-width:16vw
