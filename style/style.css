@@ -200,7 +200,8 @@ body{
         margin-right:0;
     }
     .navigation-container{
-        max-width:16vw
+        max-width:16vw;
+        margin-inline:none;
     }
     .tweet-sidebar-container{
         display:none;
