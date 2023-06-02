@@ -1,7 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    max-width:100vw
+    max-width:100vw;
 }
 body{
     /* background-color: #0F0F11; */
@@ -188,4 +188,23 @@ body{
 }
 .wellcome-screen h3{
     margin-bottom: 10px;
+}
+@media (max-width:700px){
+    body{
+        max-width:100%
+    }
+    #user-search-input{
+        margin-left:4rem
+    }
+    .navigation-container{
+        max-width:16vw
+    }
+    .tweet-sidebar-container{
+        display:none;
+    }
+    .home-link{
+        /* border:1px solid red; */
+        width:4rem;
+        padding:0
+    }
 }
