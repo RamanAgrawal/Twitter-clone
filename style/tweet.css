@@ -88,4 +88,8 @@
     .tweet-container{
         margin-inline:none;
     }
+    .tweet-video-container{
+        max-width:300px;
+        margin:4px;
+    }
 }
