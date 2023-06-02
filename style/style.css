@@ -13,6 +13,7 @@ body{
 }
 
 .navigation-container {
+    height:100vh:
     border-right: 1px solid #1C1C1C;
     max-width: 100px;
     min-width: 70px;
@@ -194,7 +195,7 @@ body{
         max-width:100%
     }
     #user-search-input{
-        width:13rem;
+        width:15rem;
         /* margin-left:4rem; */
         margin-right:0;
     }
@@ -210,7 +211,7 @@ body{
         padding:0
     }
     .searchbox-container{
-        border:1px solid red;
+        /* border:1px solid red; */
        max-width:20rem;
        overflow:hidden;
        font-size:1rem;
