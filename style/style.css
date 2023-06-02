@@ -218,5 +218,6 @@ body{
     }
     .tweet-list{
         max-width:70%;
+        margin-inline:none;
     }
 }
