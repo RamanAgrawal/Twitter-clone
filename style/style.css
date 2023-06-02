@@ -207,4 +207,10 @@ body{
         width:4rem;
         padding:0
     }
+    .searchbox-container{
+        border:1px solid red;
+       max-width:20rem;
+       overflow:hidden;
+       font-size:1rem;
+    }
 }
