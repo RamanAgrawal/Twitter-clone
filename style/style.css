@@ -216,4 +216,7 @@ body{
        overflow:hidden;
        font-size:1rem;
     }
+    .tweet-list{
+        max-width:70%;
+    }
 }
